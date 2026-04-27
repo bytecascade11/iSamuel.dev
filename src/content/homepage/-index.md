@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Download Any TikTok Video, Instantly & Free"
+  content: "Paste any TikTok link and download videos in HD — no watermark, no sign-up required."
   image: "/images/banner.png"
   button:
-    enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate"
+    enable: false
+    label: ""
+    link: ""
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Download Without Watermark"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Get clean, watermark-free TikTok videos in just a few clicks. Perfect for saving your favorite content."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "No watermark on downloaded videos"
+      - "High quality HD downloads"
+      - "Works on any device — phone, tablet or desktop"
+      - "No account or sign-up needed"
+      - "100% free to use"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Multiple Download Formats"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Choose the format that works best for you — video or audio only."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "HD Video — best quality"
+      - "SD Video — smaller file size"
+      - "MP3 Audio — music and sounds only"
+      - "No Watermark version available"
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      enable: false
+      label: ""
+      link: ""
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Fast, Simple & Secure"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Our downloader is built for speed and simplicity. Just paste, fetch, and download."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Downloads ready in seconds"
+      - "No software installation needed"
+      - "Works on iPhone, Android, and PC"
+      - "Safe and private — we don't store your videos"
     button:
       enable: false
       label: ""
