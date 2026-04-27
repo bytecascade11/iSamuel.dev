@@ -3,22 +3,17 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/profile.php?id=61585837017537"
     },
     {
       "name": "x",
       "icon": "FaXTwitter",
-      "link": "https://x.com/"
+      "link": "https://x.com/ByteCascade1/"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://github.com/bytecascade11/"
     }
   ]
 }
