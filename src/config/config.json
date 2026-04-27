@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "TikT Downloader",
+    "base_url": "https://i-samuel-dev.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,11 +9,11 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "TikDrop"
   },
 
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
@@ -23,20 +23,20 @@
   },
 
   "announcement": {
-    "enable": true,
-    "content": "<span class='text-center block'>♥️ Loving Astroplate? <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>",
+    "enable": false,
+    "content": "",
     "expire_days": 7
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2026 TikDrop — Free TikTok Video Downloader"
   },
 
   "navigation_button": {
-    "enable": true,
-    "label": "Github",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "enable": false,
+    "label": "",
+    "link": ""
   },
 
   "google_tag_manager": {
@@ -45,21 +45,21 @@
   },
 
   "disqus": {
-    "enable": true,
-    "shortname": "themefisher-template",
+    "enable": false,
+    "shortname": "",
     "settings": {}
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "TikDrop",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "Download any TikTok video for free — no watermark, no sign-up required. HD, SD and audio formats available."
   },
 
   "llms": {
-    "generate_llms_txt": true,
-    "generate_llms_full_txt": true,
-    "generate_individual_md": true,
+    "generate_llms_txt": false,
+    "generate_llms_full_txt": false,
+    "generate_individual_md": false,
     "include": [],
     "exclude": []
   }
