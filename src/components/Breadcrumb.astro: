@@ -1,0 +1,13 @@
+---
+const { title } = Astro.props;
+---
+
+<nav aria-label="breadcrumb" class="container pt-4">
+  <ol class="flex items-center gap-2 text-sm text-gray-500">
+    <li>
+      <a href="/" class="hover:text-primary transition">Home</a>
+    </li>
+    <li class="text-gray-400">/</li>
+    <li class="text-gray-700 dark:text-gray-300 font-medium">{title}</li>
+  </ol>
+</nav>
