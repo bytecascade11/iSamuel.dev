@@ -23,7 +23,7 @@
 "@astrojs/mdx": "5.0.3",
 "@astrojs/react": "5.0.3",
 "@astrojs/sitemap": "3.7.2",
-"@astrojs/vercel": "^8.0.0",
+"@astrojs/vercel": "8.0.0",
 "@digi4care/astro-google-tagmanager": "^1.6.0",
 "@justinribeiro/lite-youtube": "^1.9.0",
 "astro": "6.1.9",
@@ -66,4 +66,5 @@
 "overrides": {
 "typescript": "$typescript",
 "astro": "$astro"
+}
 }
