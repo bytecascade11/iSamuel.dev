@@ -1,7 +1,7 @@
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
-import vercel from "@astrojs/vercel/serverless";
+import vercel from "@astrojs/vercel";
 import tailwindcss from "@tailwindcss/vite";
 import AutoImport from "astro-auto-import";
 import { defineConfig, fontProviders } from "astro/config";
@@ -41,8 +41,6 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
   });
 
 export default defineConfig({
-  output: "hybrid", // ← added
-
   adapter: vercel(),
 
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
