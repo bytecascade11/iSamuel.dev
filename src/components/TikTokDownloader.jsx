@@ -290,7 +290,7 @@ export default function TikTokDownloader() {
         )}
 
         {/* Steps */}
-        <div className="td-steps">
+        <div id="how-it-works" className="td-steps">
           {[
             { n: "01", title: "Copy the link", desc: "Open TikTok, tap Share → Copy Link on any video." },
             { n: "02", title: "Paste & Download", desc: "Drop the URL into the box above and hit Download." },
