@@ -1,7 +1,6 @@
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
-import vercel from "@astrojs/vercel";
 import tailwindcss from "@tailwindcss/vite";
 import AutoImport from "astro-auto-import";
 import { defineConfig, fontProviders } from "astro/config";
@@ -14,14 +13,12 @@ import theme from "./src/config/theme.json";
 function parseFontString(fontStr) {
   const [name, weightPart] = fontStr.split(":");
   let weights = [400];
-
   if (weightPart) {
     const weightMatch = weightPart.match(/wght@?([\d;]+)/);
     if (weightMatch) {
       weights = weightMatch[1].split(";").map((w) => parseInt(w, 10));
     }
   }
-
   const cleanName = name.replace(/\+/g, " ");
   return { name: cleanName, weights };
 }
@@ -32,7 +29,6 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
     const { name, weights } = parseFontString(fontStr);
     const typeKey = `${key}_type`;
     const fallback = theme.fonts.font_family[typeKey] || "sans-serif";
-
     return {
       name,
       cssVariable: `--font-${key}`,
@@ -44,8 +40,6 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
   });
 
 export default defineConfig({
-  output: "server",
-  adapter: vercel(),
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
