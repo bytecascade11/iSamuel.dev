@@ -1,12 +1,12 @@
 {
   "site": {
     "title": "TikT Downloader",
-    "base_url": "https://tiktdownloader.vercel.app/",
+    "base_url": "https://tiktdownloader.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo": "",
+    "logo_darkmode": "",
     "logo_width": "150",
     "logo_height": "30",
     "logo_text": "TikT Downloader"
@@ -29,8 +29,8 @@
   },
 
   "params": {
-    "contact_form_action": "#",
-    "copyright": "© 2026 TikT Downloader — Free TikTok Video Downloader"
+    "contact_form_action": "https://formspree.io/f/xeevyorg",
+    "copyright": "© 2026 TikT Downloader — Free & No Watermark"
   },
 
   "navigation_button": {
@@ -51,9 +51,9 @@
   },
 
   "metadata": {
-    "meta_author": "TikDrop",
+    "meta_author": "TikT Downloader",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Download any TikTok video for free — no watermark, no sign-up required. HD, SD and audio formats available."
+    "meta_description": "TikT Downloader — Download TikTok videos free, no watermark, no sign-up. Save HD, SD and MP3 audio in seconds."
   },
 
   "llms": {
