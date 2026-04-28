@@ -20,7 +20,8 @@ if (weightMatch) {
 weights = weightMatch[1].split(";").map((w) => parseInt(w, 10));
 }
 }
-const cleanName = name.replace(/+/g, " ");
+// ✅ Fixed
+const cleanName = name.replace(/\+/g, " ");
 return { name: cleanName, weights };
 }
 
