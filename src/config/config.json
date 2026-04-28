@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "TikT Downloader",
-    "base_url": "https://i-samuel-dev.vercel.app",
+    "base_url": "https://tiktdownloader.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
