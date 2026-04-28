@@ -64,7 +64,17 @@ const { title, meta_title, description, image, noindex, canonical } =
   content="#000"
 />
 <meta name="generator" content={Astro.generator} />
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-95JKNX9WNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-95JKNX9WNL');
+</script>
 
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4896561037705299" crossorigin="anonymous"></script>
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4896561037705299" crossorigin="anonymous"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
