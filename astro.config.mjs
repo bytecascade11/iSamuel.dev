@@ -43,13 +43,16 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
 export default defineConfig({
   adapter: vercel(),
 
+  experimental: {
+    fonts: fontsConfig, // ← moved here
+  },
+
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
 
   image: { service: sharp() },
   vite: { plugins: [tailwindcss()] },
-  fonts: fontsConfig,
 
   integrations: [
     react(),
