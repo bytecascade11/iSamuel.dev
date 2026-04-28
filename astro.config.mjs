@@ -45,7 +45,11 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
       fallbacks: [fallback],
     };
   });
-
+export default defineConfig({
+  output: "server",
+  site: config.site.base_url,
+  // ... rest of your config
+});
 // https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
