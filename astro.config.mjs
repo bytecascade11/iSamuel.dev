@@ -41,6 +41,8 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
   });
 
 export default defineConfig({
+  output: "hybrid", // ← added
+
   adapter: vercel(),
 
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
@@ -73,4 +75,3 @@ export default defineConfig({
     shikiConfig: { theme: "one-dark-pro", wrap: true },
   },
 });
-    
