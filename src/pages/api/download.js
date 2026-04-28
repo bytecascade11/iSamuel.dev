@@ -1,3 +1,5 @@
+export const prerender = false;
+
 export async function GET({ request }) {
   const url = new URL(request.url);
   const videoUrl = url.searchParams.get("url");
