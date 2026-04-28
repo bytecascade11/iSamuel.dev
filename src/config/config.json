@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "TikDrop"
+    "logo_text": "TikT Downloader"
   },
 
   "settings": {
@@ -30,7 +30,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "© 2026 TikDrop — Free TikTok Video Downloader"
+    "copyright": "© 2026 TikT Downloader — Free TikTok Video Downloader"
   },
 
   "navigation_button": {
