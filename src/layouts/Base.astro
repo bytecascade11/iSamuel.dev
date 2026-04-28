@@ -120,7 +120,26 @@ const { title, meta_title, description, image, noindex, canonical } =
 
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4896561037705299" crossorigin="anonymous"></script>
-  </head>
+ <!-- Breadcrumb Schema -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://tiktdownloader.vercel.app"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": plainify(meta_title ? meta_title : title ? title : config.site.title),
+      "item": `https://tiktdownloader.vercel.app${Astro.url.pathname}`
+    }
+  ]
+})} />
+</head>
   <body class="flex flex-col min-h-screen">
     {
       config.google_tag_manager.enable && (
