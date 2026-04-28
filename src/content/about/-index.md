@@ -2,7 +2,7 @@
 title: "About TikT Downloader"
 meta_title: "About — TikT Downloader"
 description: "Learn about TikT Downloader — who built it, why it exists, and how it helps TikTok users download videos free without watermark."
-image: "/images/image-placeholder.png"
+image: "/images/isamuel.jpg"
 draft: false
 ---
 
