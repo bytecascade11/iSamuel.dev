@@ -11,7 +11,7 @@ Have a question, suggestion, or running into an issue with TikT Downloader? We w
 
 **Email:** revibyte20@gmail.com  
 **Website:** https://tiktdownloader.vercel.app  
-**Blog:** https://revibyte.blog
+**Blog:** https://revibyte.blog/
 
 ---
 
@@ -30,4 +30,4 @@ Have a question, suggestion, or running into an issue with TikT Downloader? We w
 
 We typically respond to all messages within **24 to 48 hours**. For urgent copyright or content removal requests, we prioritize those and respond as quickly as possible.
 
-You can also follow our latest updates and tech articles on **[ReviByte.blog](https://revibyte.blog)**.
+You can also follow our latest updates and tech articles on **[ReviByte.blog](https://revibyte.blog/)**.
