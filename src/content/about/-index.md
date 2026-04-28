@@ -5,9 +5,6 @@ description: "Learn about TikT Downloader..."
 image: "/images/image-placeholder.png"
 draft: false
 ---
-
-import SafeImage from '../components/SafeImage.astro';
-
 <SafeImage 
   src={frontmatter.image} 
   alt="About TikT Downloader" 
