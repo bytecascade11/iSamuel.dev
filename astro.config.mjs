@@ -10,6 +10,7 @@ import remarkToc from "remark-toc";
 import sharp from "sharp";
 import config from "./src/config/config.json";
 import theme from "./src/config/theme.json";
+import vercel from "@astrojs/vercel/serverless";
 
 function parseFontString(fontStr) {
   const [name, weightPart] = fontStr.split(":");
