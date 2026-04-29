@@ -1,29 +1,29 @@
 ---
 title: "Terms of Use"
-meta_title: "Terms of Use — TikT Downloader"
-description: "Read the Terms of Use of TikT Downloader. Understand your rights and responsibilities when using our free TikTok video downloader."
+meta_title: "Terms of Use — SaveByte Downloader"
+description: "Read the Terms of Use of SaveByte Downloader. Understand your rights and responsibilities when using our free TikTok video downloader."
 draft: false
 ---
 
 *Last updated: April 28, 2026*
 
-Welcome to **TikT Downloader** (https://tiktdownloader.vercel.app). By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully before using our services. If you do not agree to these terms, please do not use our website.
+Welcome to **SaveByte Downloader** (https://savebyte.vercel.app/). By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully before using our services. If you do not agree to these terms, please do not use our website.
 
 ---
 
-## 1. About TikT Downloader
+## 1. About SaveByte Downloader
 
-TikT Downloader is a free online tool that allows users to download TikTok videos in various formats including HD video, SD video, watermark-free video, and MP3 audio. The platform is owned and operated by **iSamuel**, founder of ReviByte, based in Nigeria.
+SaveByte Downloader is a free online tool that allows users to download TikTok videos in various formats including HD video, SD video, watermark-free video, and MP3 audio. The platform is owned and operated by **iSamuel**, founder of ReviByte, based in Nigeria.
 
 **Contact:** revibyte20@gmail.com  
-**Website:** https://tiktdownloader.vercel.app  
+**Website:** https://savebyte.vercel.app/  
 **Blog:** https://revibyte.blog
 
 ---
 
 ## 2. Acceptance of Terms
 
-By using TikT Downloader, you confirm that:
+By using SaveByte Downloader, you confirm that:
 
 * You are at least 13 years of age
 * You have read and understood these Terms of Use
@@ -45,7 +45,7 @@ TikT Downloader is provided for **personal, non-commercial use only**. You may u
 
 ## 4. Prohibited Use
 
-You agree **not** to use TikT Downloader to:
+You agree **not** to use SaveByte Downloader to:
 
 * Download or distribute copyrighted content without permission from the original creator
 * Use downloaded videos for commercial purposes without proper licensing
@@ -59,7 +59,7 @@ You agree **not** to use TikT Downloader to:
 
 ## 5. Intellectual Property & Copyright
 
-TikT Downloader respects intellectual property rights. All videos downloaded through our platform remain the property of their original creators. We do not host, store, or distribute any TikTok videos on our servers.
+SaveByte Downloader respects intellectual property rights. All videos downloaded through our platform remain the property of their original creators. We do not host, store, or distribute any TikTok videos on our servers.
 
 By using our service, you take full responsibility for ensuring that your use of downloaded content complies with:
 
@@ -73,7 +73,7 @@ If you are the copyright owner of content being downloaded through our platform 
 
 ## 6. Disclaimer of Warranties
 
-TikT Downloader is provided on an **"as is" and "as available"** basis without any warranties of any kind, either express or implied. We do not guarantee that:
+SaveByte Downloader is provided on an **"as is" and "as available"** basis without any warranties of any kind, either express or implied. We do not guarantee that:
 
 * The service will always be available or uninterrupted
 * Downloads will always be successful or complete
@@ -86,20 +86,20 @@ We are not responsible for any damage to your device resulting from the use of o
 
 ## 7. Limitation of Liability
 
-To the fullest extent permitted by law, TikT Downloader and its owner **iSamuel** shall not be liable for any:
+To the fullest extent permitted by law, SaveByte Downloader and its owner **iSamuel** shall not be liable for any:
 
 * Direct, indirect, or consequential damages
 * Loss of data or files
 * Loss of revenue or profits
 * Damage caused by third-party content downloaded through our platform
 
-Your use of TikT Downloader is entirely at your own risk.
+Your use of SaveByte Downloader is entirely at your own risk.
 
 ---
 
 ## 8. Third-Party Services
 
-TikT Downloader uses the following third-party services which have their own terms and privacy policies:
+SaveByte Downloader uses the following third-party services which have their own terms and privacy policies:
 
 * **Vercel** — hosting and deployment (https://vercel.com/legal/terms)
 * **Google AdSense** — advertising (https://policies.google.com/technologies/ads)
@@ -111,7 +111,7 @@ We are not responsible for the content or practices of any third-party services 
 
 ## 9. Advertising
 
-TikT Downloader displays advertisements through **Google AdSense** to support the free operation of this service. By using our website, you acknowledge and accept that ads may be displayed during your visit.
+SaveByte Downloader displays advertisements through **Google AdSense** to support the free operation of this service. By using our website, you acknowledge and accept that ads may be displayed during your visit.
 
 We do not endorse or take responsibility for any products or services advertised on our platform through third-party ad networks.
 
@@ -119,7 +119,7 @@ We do not endorse or take responsibility for any products or services advertised
 
 ## 10. Privacy
 
-Your use of TikT Downloader is also governed by our [Privacy Policy](/privacy-policy), which is incorporated into these Terms of Use by reference. Please review our Privacy Policy to understand our data practices.
+Your use of SaveByte Downloader is also governed by our [Privacy Policy](/privacy-policy), which is incorporated into these Terms of Use by reference. Please review our Privacy Policy to understand our data practices.
 
 ---
 
@@ -133,7 +133,7 @@ We encourage you to review these Terms periodically. Your continued use of TikT 
 
 ## 12. Governing Law
 
-These Terms of Use shall be governed by and construed in accordance with the laws of the **Federal Republic of Nigeria**. Any disputes arising from the use of TikT Downloader shall be subject to the jurisdiction of Nigerian courts.
+These Terms of Use shall be governed by and construed in accordance with the laws of the **Federal Republic of Nigeria**. Any disputes arising from the use of SaveByte Downloader shall be subject to the jurisdiction of Nigerian courts.
 
 ---
 
@@ -142,6 +142,6 @@ These Terms of Use shall be governed by and construed in accordance with the law
 If you have any questions or concerns about these Terms of Use, please contact us:
 
 **Email:** revibyte20@gmail.com  
-**Website:** https://tiktdownloader.vercel.app  
+**Website:** https://savebyte.vercel.app/  
 **Blog:** https://revibyte.blog/
 **Hosted on:** Vercel — https://vercel.com
