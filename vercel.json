@@ -1,18 +1,11 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://savebyte.vercel.app/$1",
-      "permanent": true
-    }
-  ]
+"builds": [
+{
+"src": "package.json",
+"use": "@vercel/static-build",
+"config": {
+"distDir": "dist"
+}
+}
+]
 }
