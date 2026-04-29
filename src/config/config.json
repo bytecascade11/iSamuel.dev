@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "TikT Downloader",
-    "base_url": "https://tiktdownloader.vercel.app",
+    "title": "SaveByte",
+    "base_url": "https://savebyte.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_darkmode": "",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "TikT Downloader"
+    "logo_text": "SaveByte"
   },
 
   "settings": {
@@ -30,7 +30,7 @@
 
   "params": {
     "contact_form_action": "https://formspree.io/f/xeevyorg",
-    "copyright": "© 2026 TikT Downloader — Free & No Watermark"
+    "copyright": "© SaveByte — Free & No Watermark"
   },
 
   "navigation_button": {
@@ -51,9 +51,9 @@
   },
 
   "metadata": {
-    "meta_author": "TikT Downloader",
+    "meta_author": "SaveByte",
     "meta_image": "/images/og-image.jpg",
-    "meta_description": "TikT Downloader — Download TikTok videos free, no watermark, no sign-up. Save HD, SD and MP3 audio in seconds."
+    "meta_description": "SaveByte — Download TikTok videos free, no watermark, no sign-up. Save HD, SD and MP3 audio in seconds."
   },
 
   "llms": {
