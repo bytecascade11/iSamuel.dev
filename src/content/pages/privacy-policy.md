@@ -7,7 +7,7 @@ draft: false
 
 *Last updated: April 28, 2026*
 
-Welcome to **SaveByte Downloader** (https://savebyte.vercel.app/). This Privacy Policy explains how we collect, use, and protect your information when you use our website. By using TikT Downloader, you agree to the terms described in this policy.
+Welcome to **SaveByte Downloader** (https://savebyte.vercel.app/). This Privacy Policy explains how we collect, use, and protect your information when you use our website. By using SaveByte Downloader, you agree to the terms described in this policy.
 
 ---
 
