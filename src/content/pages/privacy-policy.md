@@ -1,19 +1,19 @@
 ---
 title: "Privacy Policy"
-meta_title: "Privacy Policy — TikT Downloader"
-description: "Read the Privacy Policy of TikT Downloader. Learn how we handle your data, cookies, and third-party services."
+meta_title: "Privacy Policy — SaveByte Downloader"
+description: "Read the Privacy Policy of SaveByte Downloader. Learn how we handle your data, cookies, and third-party services."
 draft: false
 ---
 
 *Last updated: April 28, 2026*
 
-Welcome to **TikT Downloader** (https://tiktdownloader.vercel.app). This Privacy Policy explains how we collect, use, and protect your information when you use our website. By using TikT Downloader, you agree to the terms described in this policy.
+Welcome to **SaveByte Downloader** (https://savebyte.vercel.app/). This Privacy Policy explains how we collect, use, and protect your information when you use our website. By using TikT Downloader, you agree to the terms described in this policy.
 
 ---
 
 ## 1. Who We Are
 
-TikT Downloader is owned and operated by **iSamuel**, founder of ReviByte, based in Nigeria. We built this platform to provide a free, fast, and clean TikTok video downloading experience for users worldwide.
+SaveByte Downloader is owned and operated by **iSamuel**, founder of ReviByte, based in Nigeria. We built this platform to provide a free, fast, and clean TikTok video downloading experience for users worldwide.
 
 For any privacy-related questions, you can reach us at: **revibyte20@gmail.com**
 
@@ -22,7 +22,7 @@ For any privacy-related questions, you can reach us at: **revibyte20@gmail.com**
 ## 2. Information We Collect
 
 ### a) Information You Provide
-We do not require you to create an account or submit personal information to use TikT Downloader. The only input we receive is the TikTok video URL you paste into our downloader — and we do not store this information on our servers.
+We do not require you to create an account or submit personal information to use SaveByte Downloader. The only input we receive is the TikTok video URL you paste into our downloader — and we do not store this information on our servers.
 
 ### b) Automatically Collected Information
 When you visit our website, certain information may be automatically collected, including:
@@ -33,7 +33,7 @@ When you visit our website, certain information may be automatically collected, 
 * Pages visited and time spent on the site
 * Referring website or source
 
-This information is collected through standard web analytics tools and is used only to improve the performance and user experience of TikT Downloader.
+This information is collected through standard web analytics tools and is used only to improve the performance and user experience of SaveByte Downloader.
 
 ---
 
@@ -41,7 +41,7 @@ This information is collected through standard web analytics tools and is used o
 
 We use the information collected to:
 
-* Operate and maintain TikT Downloader
+* Operate and maintain SaveByte Downloader
 * Monitor and analyze website traffic and usage patterns
 * Improve our services and user experience
 * Detect and prevent technical issues or abuse
@@ -53,7 +53,7 @@ We do **not** sell, trade, or rent your personal information to any third party.
 
 ## 4. Cookies
 
-TikT Downloader uses cookies to enhance your browsing experience. Cookies are small text files stored on your device when you visit a website.
+SaveByte Downloader uses cookies to enhance your browsing experience. Cookies are small text files stored on your device when you visit a website.
 
 We use cookies for the following purposes:
 
@@ -67,9 +67,9 @@ You can choose to disable cookies through your browser settings at any time. How
 
 ## 5. Google AdSense & Third-Party Advertising
 
-TikT Downloader uses **Google AdSense** to display advertisements. Google AdSense may use cookies and web beacons to serve ads based on your previous visits to our site and other websites on the internet.
+SaveByte Downloader uses **Google AdSense** to display advertisements. Google AdSense may use cookies and web beacons to serve ads based on your previous visits to our site and other websites on the internet.
 
-Google's use of advertising cookies enables it and its partners to serve ads based on your visit to TikT Downloader and other sites. You may opt out of personalized advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads).
+Google's use of advertising cookies enables it and its partners to serve ads based on your visit to SaveByte Downloader and other sites. You may opt out of personalized advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads).
 
 For more information on how Google uses data, visit: [google.com/policies/privacy/partners](https://www.google.com/policies/privacy/partners)
 
@@ -83,7 +83,7 @@ Our website may contain links to third-party websites such as [ReviByte.blog](ht
 
 ## 7. Children's Privacy
 
-TikT Downloader is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at **revibyte20@gmail.com** and we will delete it immediately.
+SaveByte Downloader is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at **revibyte20@gmail.com** and we will delete it immediately.
 
 ---
 
@@ -114,7 +114,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ## 12. Hosting & Deployment
 
-TikT Downloader is hosted and deployed on **Vercel** (https://vercel.com), a cloud platform for static sites and serverless functions. Vercel may collect certain technical data such as IP addresses and request logs as part of their infrastructure services.
+SaveByte Downloader is hosted and deployed on **Vercel** (https://vercel.com), a cloud platform for static sites and serverless functions. Vercel may collect certain technical data such as IP addresses and request logs as part of their infrastructure services.
 
 For more information on how Vercel handles data, visit: [vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy)
 ## 11. Contact Us
@@ -122,5 +122,5 @@ For more information on how Vercel handles data, visit: [vercel.com/legal/privac
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 **Email:** revibyte20@gmail.com  
-**Website:** https://tiktdownloader.vercel.app  
+**Website:** https://savebyte.vercel.app/  
 **Blog:** https://revibyte.blog/
