@@ -76,7 +76,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- canonical url -->
     <link
       rel="canonical"
-      href={canonical ? canonical : `https://tiktdownloader.vercel.app${Astro.url.pathname.replace(/\/$/, "")}`}
+      href={canonical ? canonical : `https://savebyte.vercel.app${Astro.url.pathname.replace(/\/$/, "")}`}
       item-prop="url"
     />
 
@@ -100,13 +100,13 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta property="og:title" content={plainify(meta_title ? meta_title : title ? title : config.site.title)} />
     <meta property="og:description" content={plainify(description ? description : config.metadata.meta_description)} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={`https://tiktdownloader.vercel.app${Astro.url.pathname}`} />
+    <meta property="og:url" content={`https://savebyte.vercel.app${Astro.url.pathname}`} />
     <meta property="og:image" content={`https://tiktdownloader.vercel.app${image ? image : config.metadata.meta_image}`} />
 
     <!-- twitter tags -->
     <meta name="twitter:title" content={plainify(meta_title ? meta_title : title ? title : config.site.title)} />
     <meta name="twitter:description" content={plainify(description ? description : config.metadata.meta_description)} />
-    <meta name="twitter:image" content={`https://tiktdownloader.vercel.app${image ? image : config.metadata.meta_image}`} />
+    <meta name="twitter:image" content={`https://savebyte.vercel.app${image ? image : config.metadata.meta_image}`} />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- Google Analytics -->
@@ -129,13 +129,13 @@ const { title, meta_title, description, image, noindex, canonical } =
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://tiktdownloader.vercel.app"
+      "item": "https://savebyte.vercel.app"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": plainify(meta_title ? meta_title : title ? title : config.site.title),
-      "item": `https://tiktdownloader.vercel.app${Astro.url.pathname}`
+      "item": `https://savebyte.vercel.app${Astro.url.pathname}`
     }
   ]
 })} />
