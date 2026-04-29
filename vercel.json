@@ -7,5 +7,12 @@
         "distDir": "dist"
       }
     }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://savebyte.vercel.app/$1",
+      "permanent": true
+    }
   ]
 }
